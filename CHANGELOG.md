@@ -1,6 +1,6 @@
 ## [1.1.0] 2024-07-11
 
-### Added new charts on Main Dashboard
+### Added new charts on the Main Dashboard
 
 - Bar chart added
 - Area chart added
@@ -9,7 +9,7 @@
 
 ### Errors removed
 
-- All vulerabilities removed
+- All vulnerabilities removed
 - Dependencies up to date
 
 ## [1.0.0] 2024-05-20
